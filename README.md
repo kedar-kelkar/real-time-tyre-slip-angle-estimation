@@ -76,7 +76,7 @@ The validation also demonstrated the expected difference between the inner and o
 
 ![Wheel Angle Inner vs Outer](media/Wheel%20angle%20innver%20vs%20outer.png)
 
-For the same rack displacement, the inner wheel turns through a larger angle than the outer wheel. This is necessary because the two tyres follow different-radius paths while the vehicle is cornering.
+For the same rack displacement, the inner wheel turns through a smaller angle than the outer wheel. This is necessary because the two tyres follow different-radius paths while the vehicle is cornering. It is also a feature of the design Anti-Ackermann type steering geometry.
 
 This relationship was incorporated into the proposed real-time measurement system so that a single measured rack position could be converted into the corresponding angle of each front wheel.
 
