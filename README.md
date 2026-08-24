@@ -6,6 +6,8 @@ Tyre slip angle is one of the most important quantities governing the lateral pe
 
 The objective of this project was to develop a method for estimating the **real-time slip angle at each wheel during cornering** using measured steering geometry and vehicle motion data.
 
+![Hero FB'24](Hero%20FB'24.jpg)
+
 The project was developed as part of a student Formula racing program (Shaurya Racing, VIT Chennai). The work progressed through the design and validation of the steering measurement system and an initial vehicle test on a skidpad. The methodology final stage — obtaining the vehicle velocity vector using an IMU/GPS system and transforming it to each wheel — was developed as the proposed continuation of the project.
 
 ---
